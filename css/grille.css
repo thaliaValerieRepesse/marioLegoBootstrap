@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: navy;
+}
+h6{
+    text-align: center;
+    color: navy;
+}
+.container{
+    border: 1px solid black;
+    height: 480px;
+    width: 400px;
+}
+.bordure{
+    border: 1px solid black;
+    height: 30px;
+    background: white;
+}
+.bordure-red{
+    border: 1px solid black;
+    height: 30px;
+    background: red;
+}
+.bordure-brown{
+    border: 1px solid black;
+    height: 30px;
+    background: brown;
+}
+.bordure-yellow{
+    border: 1px solid black;
+    height: 30px;
+    background: yellow;
+}
+.bordure-black{
+    border: 1px solid black;
+    height: 30px;
+    background: black;
+}
+.bordure-blue{
+    border: 1px solid black;
+    height: 30px;
+    background: blue;
+}
